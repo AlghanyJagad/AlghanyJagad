@@ -1,10 +1,9 @@
-# Hello there
-Web Developer.
+# Hello there 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=AlghanyJagad&show_icons=true&bg_color=314e52&title_color=fff&icon_color=fff&text_color=f9f871&show_owner=false)
 
 ##### About Me
 
+- 🤞  Web Developer
 - 🔭 Currently working on freelance project
 - 🌱 I’m like playing with Laravel
 - 👯 I’m still learning everday and everytime
