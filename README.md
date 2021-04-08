@@ -4,12 +4,12 @@ Web Developer.
 
 ##### About Me
 
-- 🔭 I’m currently working on project - project freelance and tasks
+- 🔭 Currently working on freelance project
 - 🌱 I’m like playing with Laravel
 - 👯 I’m still learning everday and everytime
 - 🤔 I’m looking for help with google, youtube, stackoverflow, etc.
 
-![Ow1T-min](https://user-images.githubusercontent.com/55536560/108715187-175f8680-754d-11eb-8a6d-62be6f7f857e.gif)
+![Ow1T-min](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 
 
